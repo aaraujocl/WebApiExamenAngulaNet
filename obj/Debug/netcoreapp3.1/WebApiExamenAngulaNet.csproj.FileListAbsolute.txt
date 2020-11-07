@@ -1,0 +1,132 @@
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.exe
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.deps.json
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.runtimeconfig.json
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.runtimeconfig.dev.json
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.pdb
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.AssemblyInfoInputs.cache
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.AssemblyInfo.cs
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.RazorTargetAssemblyInfo.cache
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\staticwebassets\WebApiExamenAngulaNet.StaticWebAssets.Manifest.cache
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\staticwebassets\WebApiExamenAngulaNet.StaticWebAssets.xml
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.pdb
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.genruntimeconfig.cache
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.csproj.CopyComplete
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.csproj.CoreCompileInputs.cache
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Nk-System Consultores SCA\Examen Helen\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.csprojAssemblyReference.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.exe
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.deps.json
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.runtimeconfig.json
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.runtimeconfig.dev.json
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\WebApiExamenAngulaNet.pdb
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.csprojAssemblyReference.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.AssemblyInfoInputs.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.AssemblyInfo.cs
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.csproj.CoreCompileInputs.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.RazorTargetAssemblyInfo.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.csproj.CopyComplete
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\staticwebassets\WebApiExamenAngulaNet.StaticWebAssets.Manifest.cache
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\staticwebassets\WebApiExamenAngulaNet.StaticWebAssets.xml
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.dll
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.pdb
+C:\Nk-System Consultores SCA\ExamenAngularNet\WebApiExamenAngulaNet\obj\Debug\netcoreapp3.1\WebApiExamenAngulaNet.genruntimeconfig.cache
